@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shadow999007
-- 👀 I’m interested in learning to write USEFULL code
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in WebDevelopment and neural-networks
+- 🌱 I’m currently learning Java & Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
